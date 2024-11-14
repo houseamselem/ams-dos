@@ -211,4 +211,4 @@ This repository is currently under construction, and we’re actively working to
 
 ### 7. Contact
 
-We’re here to help. For any questions, support, or to learn more about AMS, the best way to reach us is through our Instagram page. We’re available and ready to connect, whether it’s to answer inquiries or keep you updated on our latest developments. [Follow and message us on Instagram](https://www.instagram.com/ams) for the quickest response, and we’ll get back to you as soon as possible.
+We’re here to help. For any questions, support, or to learn more about AMS, the best way to reach us is through our Instagram page. We’re available and ready to connect, whether it’s to answer inquiries or keep you updated on our latest developments. [Follow and message us on Instagram](https://instagr.am/houseamselem) for the quickest response, and we’ll get back to you as soon as possible.
