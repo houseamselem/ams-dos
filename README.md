@@ -205,3 +205,10 @@ From optimizing existing modules to introducing new functionality, every enhance
 Please follow our guidelines for contributing, submit your pull requests, and become part of our community dedicated to pushing the boundaries of what Arduino can achieve.
 Together, let’s make AMS-DOS a powerful platform for all users and projects.
 
+### 6. About
+
+This repository is currently under construction, and we’re actively working to develop and refine its content. Modules will be added progressively as they become available, each designed to enhance functionality and performance. We appreciate your patience and interest as we continue to build out this project, and we look forward to sharing updates as new features and improvements are completed. Stay tuned for upcoming releases.
+
+### 7. Contact
+
+We’re here to help. For any questions, support, or to learn more about AMS, the best way to reach us is through our Instagram page. We’re available and ready to connect, whether it’s to answer inquiries or keep you updated on our latest developments. [Follow and message us on Instagram](https://www.instagram.com/ams) for the quickest response, and we’ll get back to you as soon as possible.
