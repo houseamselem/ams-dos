@@ -1,6 +1,6 @@
 # AMS-DOS
 
-**The Advanced Microcontroller System - DOS for Arduino**
+**Arduino Modular System & Dedicated Operating Suite**
 
 AMS-DOS is a lightweight, efficient operating system designed specifically for Arduino microcontrollers. Built to maximize the potential of limited resources, AMS-DOS provides a structured environment for managing tasks, memory, and peripherals. This OS enables Arduino enthusiasts and developers to organize and execute complex programs on simple hardware, bringing multi-tasking and a more structured development approach to the Arduino platform.
 
