@@ -1,3 +1,5 @@
+![AMS-DOS Logo](https://nsfnetserver.com/usr/ams/public/ams-dos/assets/hd/1024x0768.jpg)
+
 # AMS-DOS
 
 **Arduino Modular System & Dedicated Operating Suite**
