@@ -1,14 +1,9 @@
 # Folders
 
 .ignore/
-ams-dos/
-fs-esp8266/
-fuzzy/
-gen/
-i2c/
-random/
-say/
+vs/
 
 # Files
+
+*.bat
 *.code-workspace
-*.ino
