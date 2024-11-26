@@ -1,14 +1,14 @@
 # Folders
 
+.ignore/
 ams-dos/
-docs/
 fs-esp8266/
 fuzzy/
 gen/
 i2c/
 random/
 say/
-src/
 
 # Files
 *.code-workspace
+*.ino
